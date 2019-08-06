@@ -1,0 +1,169 @@
+[
+    {
+        "Label": "𝐒𝐔𝐍𝐒𝐄𝐓┊🍂",
+        "Pool": "bias-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "𝐒𝐔𝐍𝐒𝐇𝐈𝐍𝐄𝐒┊🌞",
+                "Print": "SUNSHINES",
+                "Aliases": [
+                    "sunshines",
+                    "sunshine"
+                ]
+            },
+            {
+                "Name": "Hyewon",
+                "Print": "Hyewon",
+                "Aliases": [
+                    "Hyewon",
+                    "hyewon"
+                ]
+            },
+            {
+                "Name": "HK",
+                "Print": "HK",
+                "Aliases": [
+                    "HK",
+                    "hk",
+                    "Holly",
+                    "holly"
+                ]
+            },
+            {
+                "Name": "Haeun",
+                "Print": "Haeun",
+                "Aliases": [
+                    "Haeun",
+                    "haeun"
+                ]
+            },
+            {
+                "Name": "Miko",
+                "Print": "Miko",
+                "Aliases": [
+                    "Miko",
+                    "miko"
+                ]
+            },
+
+        "Message": ""
+    },
+    {
+        "Label": "#𝐄𝐂𝐋𝐈𝐏𝐒𝐄┊🌓",
+        "Pool": "bias-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "𝐌𝐎𝐎𝐍𝐋𝐈𝐆𝐇𝐓┊🌓",
+                "Print": "MOONLIGHT",
+                "Aliases": [
+                    "moonlight",
+                    "Moonlight"
+                ]
+            },
+            {
+                "Name": "Youngjin",
+                "Print": "Youngjin",
+                "Aliases": [
+                    "Youngjin",
+                    "youngjin"
+                ]
+            },
+            {
+                "Name": "Jihyun",
+                "Print": "Jihyun",
+                "Aliases": [
+                    "Jihyun",
+                    "jihyun"
+                ]
+            },
+        ],
+        "Message": ""
+    },
+    {
+        "Label": "#𝐔𝐊𝐈𝐘𝐎┊☄️",
+        "Pool": "bias-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "𝐏𝐋𝐀𝐍𝐄𝐓𝐒┊ ☄️ ",
+                "Print": "PLANETS",
+                "Aliases": [
+                    "Planets",
+                    "planets"
+                ]
+            },
+            {
+                "Name": "Uee",
+                "Print": "Uee",
+                "Aliases": [
+                    "Uee",
+                    "uee",
+                    "yui"
+                ]
+            },
+            {
+                "Name": "Jaehwa",
+                "Print": "Jaehwa",
+                "Aliases": [
+                    "Jaehwa",
+                    "jaehwa"
+                ]
+            },
+        ],
+        "Message": ""
+    },
+    {
+        "Label": "SOLOISTS",
+        "Pool": "bias-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Bae",
+                "Print": "Bae",
+                "Aliases": [
+                    "Bae",
+                    "bae"
+                ]
+            },
+            {
+                "Name": "Dahyun",
+                "Print": "Dahyun",
+                "Aliases": [
+                    "Dahyun",
+                    "dahyun"
+                ]
+            },
+            {
+                "Name": "Eunmi",
+                "Print": "Eunmi",
+                "Aliases": [
+                    "Eunmi",
+                    "eunmi"
+                ]
+            },
+            {
+                "Name": "Jungwoo",
+                "Print": "Jungwoo",
+                "Aliases": [
+                    "Jungwoo",
+                    "jungwoo"
+                ]
+            },
+            {
+                "Name": "Lia",
+                "Print": "Lia",
+                "Aliases": [
+                    "Lia",
+                    "lia"
+                ]
+            }
+        ],
+        "Message": ""
+    }
+]
